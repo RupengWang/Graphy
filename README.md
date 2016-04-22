@@ -22,7 +22,7 @@
 ![](http://115.28.143.152/silence/wp-content/uploads/2016/04/p6.png)
 ![](http://115.28.143.152/silence/wp-content/uploads/2016/04/p7.png)
 ![](http://115.28.143.152/silence/wp-content/uploads/2016/04/p8.png)
-#####渲染出一个圆型物体
+#####回归渲染出一个圆型物体
 ![](http://115.28.143.152/silence/wp-content/uploads/2016/04/p9.png)
 ![](http://115.28.143.152/silence/wp-content/uploads/2016/04/p10.png)
 ![](http://115.28.143.152/silence/wp-content/uploads/2016/04/p11.png)
