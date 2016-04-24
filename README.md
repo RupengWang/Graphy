@@ -1,7 +1,7 @@
 ###欢迎访问我的[博客](http://115.28.143.152/silence/)
 
 # Graphy 自学并研究MIT图形学公开资源（代码6-837）
-## Bezier曲线
+## Bezier曲线和B-spline曲线
 ![Bezier](http://115.28.143.152/silence/wp-content/uploads/2016/04/beta.png)
 
 ##IFS分形图形实现
