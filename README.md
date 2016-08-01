@@ -29,7 +29,6 @@
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_0.jpg)
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_1.jpg)
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_2.jpg)
-![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_3.jpg)
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle.jpg)
 ##粒子系统（在程序中显示为动态图像）
 #####横向模拟水流
