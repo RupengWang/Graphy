@@ -16,7 +16,7 @@
 
 ##IFS分形图形实现
 #####Fern蕨类植物
-
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/fern_new.jpg)
 #####谢尔宾斯基（sierpinski）三角
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_0.jpg)
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_1.jpg)
