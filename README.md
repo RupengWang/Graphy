@@ -17,6 +17,9 @@
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline07_vase_low_new.png)
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline07_vase_high_new.png)
 #####马鞍形状（网格、三角形、交叉）
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/patch_low_new.png)
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/patch_mid_new.png)
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/patch_high_new.png)
 
 ##IFS分形图形实现
 #####Fern蕨类植物
