@@ -10,6 +10,8 @@
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline04_spline.png)
 #####Bezier绘制“面包圈”(旋转、三角形)
 ![base](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline06_torus.png)
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline06_torus_low_new.png)
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline06_torus_high_new.png)
 #####Bspline绘制“花瓶”(旋转、三角形)
 ![base](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline07_vase.png)
 #####马鞍形状（网格、三角形、交叉）
