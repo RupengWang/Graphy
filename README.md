@@ -10,7 +10,7 @@
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline04_spline.png)
 #####Bezier绘制“面包圈”(旋转、三角形)
 ![base](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline06_torus.png)
-![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline06_torus_low_new.png)
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline06_torus_low_n.png)
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline06_torus_high_new.png)
 #####Bspline绘制“花瓶”(旋转、三角形)
 ![base](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline07_vase.png)
@@ -23,7 +23,7 @@
 
 ##IFS分形图形实现
 #####Fern蕨类植物
-![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/fern_new.jpg)
+![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/fern_n.jpg)
 #####谢尔宾斯基（sierpinski）三角
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_0.jpg)
 ![](http://121.42.164.108/Silence/wp-content/uploads/2016/08/sierpinski_triangle_1.jpg)
