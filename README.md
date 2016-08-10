@@ -1,6 +1,6 @@
 ###欢迎访问我的[个人主页](http://121.42.164.108/Silence)（服务器已修复好但是一年的文章丢失）
 
-# Graphy 自学并研究MIT图形学公开资源（代码6-837）
+# Graphy 学习并研究MIT图形学公开资源（代码6-837）
 ## Bezier曲线和B-spline曲线及其应用
 #####Bezier曲线实现效果
 ![Bezier](http://121.42.164.108/Silence/wp-content/uploads/2016/08/spline01_bezier.png)
